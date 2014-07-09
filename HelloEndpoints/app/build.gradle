@@ -1,0 +1,54 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:0.12.+'
+    }
+}
+
+apply plugin: 'com.android.application'
+
+repositories {
+    mavenCentral()
+    maven {
+        url 'http://google-api-client-libraries.appspot.com/mavenrepo'
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:13.0.+'
+    // BEGIN Google APIs
+    // Play Services will validate the application prior to allowing OAuth2 access.
+    compile 'com.google.android.gms:play-services:3.2.25'
+    // The following lines implement maven imports as defined at:
+    // https://code.google.com/p/google-api-java-client/wiki/Setup
+    // Add the Google API client library.
+    compile 'com.google.api-client:google-api-client:1.17.0-rc'
+    // Add the Android extensions for the Google API client library.
+    // This will automatically include play services as long as you have download that library
+    // from the Android SDK manager.
+    // Add the Android extensions for the Google API client library.
+    compile 'com.google.api-client:google-api-client-android:1.17.0-rc'
+    // END Google APIs
+    // The following client libraries make HTTP/JSON on Android easier.
+    // Android extensions for Google HTTP Client.
+    compile 'com.google.http-client:google-http-client-android:1.17.0-rc'
+    // This is used by the Google HTTP client library.
+    compile 'com.google.guava:guava:14.0.+'
+    // Add my Backend API support.
+    compile files('libs/inbar_1201_yoav_0301_appspot_com-helloworld-v1-20140707204836-java-1.18.0-rc-sources.jar')
+    compile files('libs/inbar_1201_yoav_0301_appspot_com-helloworld-v1-20140709211428-java-1.18.0-rc-sources.jar')
+}
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "19.1.0"
+
+    defaultConfig {
+        minSdkVersion 8
+        targetSdkVersion 19
+    }
+}
+
+
