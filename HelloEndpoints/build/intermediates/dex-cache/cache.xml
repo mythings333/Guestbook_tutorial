@@ -8,12 +8,6 @@
         revision="19.1.0"
         sha1="f01974c9ec3e5570d8c75ecf7fce004e06757e03"/>
     <item
-        dex="C:\Users\sg24\AndroidStudioProjects\Guestbook_tutorial\HelloEndpoints\app\build\intermediates\pre-dexed\debug\inbar_1201_yoav_0301_appspot_com-helloworld-v1-20140709211428-java-1.18.0-rc-sources-f2a636f869cb230f1f4d3cd5c1b051e50ddea4ba.jar"
-        jar="C:\Users\sg24\AndroidStudioProjects\Guestbook_tutorial\HelloEndpoints\app\libs\inbar_1201_yoav_0301_appspot_com-helloworld-v1-20140709211428-java-1.18.0-rc-sources.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="b6e856a7c786712588cce6afe99b1173182495fa"/>
-    <item
         dex="C:\Users\sg24\AndroidStudioProjects\Guestbook_tutorial\HelloEndpoints\app\build\intermediates\pre-dexed\debug\google-http-client-1.17.0-rc-f5c245f4f40d18695b02ebaafd390338f99acdcd.jar"
         jar="C:\Users\sg24\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.17.0-rc\637da6cca16f4a97c4771137bce02e7c291e67af\google-http-client-1.17.0-rc.jar"
         jumboMode="false"
@@ -25,6 +19,18 @@
         jumboMode="false"
         revision="19.1.0"
         sha1="cfef30e5d361e2fd2892eed93a183db48dcae153"/>
+    <item
+        dex="C:\Users\sg24\AndroidStudioProjects\Guestbook_tutorial\HelloEndpoints\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.17.0-rc-e82b2aacf8b82f1a1f13fcf2acc9f80b93d0af43.jar"
+        jar="C:\Users\sg24\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.17.0-rc\76bcfba455c5a053d532bbac2cf30a2b2c341cf3\google-oauth-client-1.17.0-rc.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="76bcfba455c5a053d532bbac2cf30a2b2c341cf3"/>
+    <item
+        dex="C:\Users\sg24\AndroidStudioProjects\Guestbook_tutorial\HelloEndpoints\app\build\intermediates\pre-dexed\debug\inbar_1201_yoav_0301_appspot_com-helloworld-v1-20140709211428-java-1.18.0-rc-sources-f2a636f869cb230f1f4d3cd5c1b051e50ddea4ba.jar"
+        jar="C:\Users\sg24\AndroidStudioProjects\Guestbook_tutorial\HelloEndpoints\app\libs\inbar_1201_yoav_0301_appspot_com-helloworld-v1-20140709211428-java-1.18.0-rc-sources.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b6e856a7c786712588cce6afe99b1173182495fa"/>
     <item
         dex="C:\Users\sg24\AndroidStudioProjects\Guestbook_tutorial\HelloEndpoints\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-770b97886c91db4189f1ab1c554737f96324a5b4.jar"
         jar="C:\Users\sg24\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
@@ -38,23 +44,17 @@
         revision="19.1.0"
         sha1="3fe75433da602500cc71fcc1c46e5550291dd45d"/>
     <item
-        dex="C:\Users\sg24\AndroidStudioProjects\Guestbook_tutorial\HelloEndpoints\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.17.0-rc-ad59f9a092373138b4ab2c54d0911c5d0bdb7c0c.jar"
-        jar="C:\Users\sg24\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.17.0-rc\f3fc9acc57c2a55fd17a421710f564b73dabda21\google-http-client-android-1.17.0-rc.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="f3fc9acc57c2a55fd17a421710f564b73dabda21"/>
-    <item
         dex="C:\Users\sg24\AndroidStudioProjects\Guestbook_tutorial\HelloEndpoints\app\build\intermediates\pre-dexed\debug\classes-19a8bae485ced377451a92b843e85f764351bb6c.jar"
         jar="C:\Users\sg24\AndroidStudioProjects\Guestbook_tutorial\HelloEndpoints\build\intermediates\exploded-aar\com.google.android.gms\play-services\3.2.25\classes.jar"
         jumboMode="false"
         revision="19.1.0"
         sha1="be555ed84d38d5d761d827a6c94ae5485692dba2"/>
     <item
-        dex="C:\Users\sg24\AndroidStudioProjects\Guestbook_tutorial\HelloEndpoints\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.17.0-rc-e82b2aacf8b82f1a1f13fcf2acc9f80b93d0af43.jar"
-        jar="C:\Users\sg24\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.17.0-rc\76bcfba455c5a053d532bbac2cf30a2b2c341cf3\google-oauth-client-1.17.0-rc.jar"
+        dex="C:\Users\sg24\AndroidStudioProjects\Guestbook_tutorial\HelloEndpoints\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.17.0-rc-ad59f9a092373138b4ab2c54d0911c5d0bdb7c0c.jar"
+        jar="C:\Users\sg24\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.17.0-rc\f3fc9acc57c2a55fd17a421710f564b73dabda21\google-http-client-android-1.17.0-rc.jar"
         jumboMode="false"
         revision="19.1.0"
-        sha1="76bcfba455c5a053d532bbac2cf30a2b2c341cf3"/>
+        sha1="f3fc9acc57c2a55fd17a421710f564b73dabda21"/>
     <item
         dex="C:\Users\sg24\AndroidStudioProjects\Guestbook_tutorial\HelloEndpoints\app\build\intermediates\pre-dexed\debug\guava-14.0.1-6c2ee447a4287a8803e75ef9d341dc69d757c398.jar"
         jar="C:\Users\sg24\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\14.0.1\69e12f4c6aeac392555f1ea86fab82b5e5e31ad4\guava-14.0.1.jar"

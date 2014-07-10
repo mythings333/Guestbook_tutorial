@@ -14,7 +14,7 @@ from protorpc import remote
 # TODO: Replace the following lines with client IDs obtained from the APIs
 # Console or Cloud Console.
 WEB_CLIENT_ID = '126619682233-fr76ecn5snfvqgrggkv439h04p3lpodr.apps.googleusercontent.com'
-ANDROID_CLIENT_ID = 'AIzaSyCpqzfY0PiMtpSV3flmGyzyd6cwI7uANGM'
+ANDROID_CLIENT_ID = '126619682233-tskrib3ugtk3fjb5artv86h4sr1ecnof.apps.googleusercontent.com'
 IOS_CLIENT_ID = 'AIzaSyCpqzfY0PiMtpSV3flmGyzyd6cwI7uANGM'
 ANDROID_AUDIENCE = WEB_CLIENT_ID
 

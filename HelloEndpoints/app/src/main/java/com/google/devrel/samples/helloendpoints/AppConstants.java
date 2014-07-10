@@ -80,6 +80,8 @@ public class AppConstants {
     Helloworld.Builder helloWorld = new Helloworld.Builder(AppConstants.HTTP_TRANSPORT,
         AppConstants.JSON_FACTORY, credential);
 
+    helloWorld.setApplicationName("helloworld");
+
     // If running the Cloud Endpoint API locally then point the API stub there by un-commenting the
     // next line.
     // helloWorld.setRootUrl("http://192.168.1.100:8080/_ah/api/");
