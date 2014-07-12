@@ -57,7 +57,7 @@ public class Helloworld extends com.google.api.client.googleapis.services.json.A
    *
    * @since 1.7
    */
-  public static final String DEFAULT_ROOT_URL = "https://inbar-1201-yoav-0301.appspot.com/_ah/api/explorer";
+  public static final String DEFAULT_ROOT_URL = "https://inbar-1201-yoav-0301.appspot.com/_ah/api";
 
   /**
    * The default encoded service path of the service. This is determined when the library is
